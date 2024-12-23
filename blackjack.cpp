@@ -49,7 +49,7 @@ int main(){
             break;
         }
     }
-    
+    // Dealer
     cout << endl << "=========================================" << endl;
     cout << "           - T U R N O   D E A L E R -   " << endl;
     cout << "=========================================" << endl << endl;
@@ -67,6 +67,7 @@ int main(){
         cout<<"VITTORIA DEALER"<<endl;
         
     }
+
 
     cout << endl << "=========================================" << endl;
     cout << "             - F I N E   G I O C O -     " << endl;
